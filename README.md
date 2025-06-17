@@ -137,16 +137,3 @@ enable_models = {
 - **Flight Controller Protection**: Detect malicious commands
 - **Communication Security**: Monitor inter-component communications
 
-
-## 📝 Output Examples
-
-### Summary Report
-```
-📊 DETECTION SUMMARY
-Enabled Models: Flooding, Replay
-Total Lines Processed: 1000
-Correct Predictions: 987
-Overall Accuracy: 98.70%
-Attacks Detected: 45
-Normal Traffic: 955
-```
